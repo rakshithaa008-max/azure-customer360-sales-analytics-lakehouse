@@ -43,6 +43,13 @@ Sample CSV Sources
 | Closed-Won Amount | 37,000 |
 | Sales Revenue | 60,700 |
 
+
+
+## Dashboard Screenshot
+
+![Customer 360 Sales & Revenue Dashboard](customer360_dashboard.png)
+
+
 ## Project Note
 This project uses demonstration CSV data representing
 Salesforce and SAP systems, not live enterprise connections.
